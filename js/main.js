@@ -11,3 +11,10 @@ $("#btn").on("click", function(evnt) {
     }
     $("#to-dos").append($newItem)
     $("#input").val("")
+
+})
+$("#to-dos").on("click", "button", function() {
+    $(this).closest('tr').fadeOut(750, function() {
+      $(this).remove();
+    });
+  });
