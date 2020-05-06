@@ -2,3 +2,12 @@ main {
     width: 600px;
     margin: 150px auto auto;
   }
+
+  h1 {
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+    font-family: sans-serif;
+    padding: 200px;
+  }
+  
