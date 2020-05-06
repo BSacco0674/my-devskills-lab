@@ -5,7 +5,7 @@ main {
 
   h1 {
     text-align: center;
-    background-color: rgb(46, 180, 106);
+    background-color: rgb(138, 188, 117);
     color: white;
     font-family: sans-serif;
     padding: 20px;
@@ -13,4 +13,5 @@ main {
   section {
     padding: 20px;
   }
+  
   
