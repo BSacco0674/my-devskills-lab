@@ -14,4 +14,16 @@ main {
     padding: 20px;
   }
   
+  input {
+  border-color: rgb(138, 188, 117);
+  border-top-color: rgb(138, 188, 117);
+  }
+
+  #btn {
+    color: rgb(138, 188, 117);
+    border-color: rgb(138, 188, 117);
+    font-weight: bolder;
+    height: 40px;
+    width: 100px;
+  }
   
